@@ -278,5 +278,5 @@ The SOC Security Dashboard in ServiceNow includes:
 Murthy Sai Krishna
 B.Tech AI and Data Science — KL University
 ServiceNow Certified System Administrator (CSA)
-LinkedIn: https://www.linkedin.com/in/murthy-sai-krishna/
-GitHub: https://github.com/SaiKrishna-art
+[LinkedIn](https://www.linkedin.com/in/murthy-sai-krishna/)
+[GitHub](https://github.com/SaiKrishna-art)
