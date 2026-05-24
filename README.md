@@ -4,12 +4,6 @@ An enterprise-grade cybersecurity monitoring and automated incident response pla
 
 ---
 
-## Live Demo
-
-Backend API: https://ai-cybersecurity-backend.onrender.com
-
----
-
 ## Project Overview
 
 When a security alert is submitted, the system:
@@ -276,12 +270,6 @@ The SOC Security Dashboard in ServiceNow includes:
 - Automated malware file scanning
 - Predictive threat analytics
 - Real-time alert streaming
-
----
-
-## Resume Description
-
-Developed an AI-powered cybersecurity incident response platform using ServiceNow SecOps, FastAPI, and Gemini 2.5 Flash API for automated threat classification, intelligent incident routing, VirusTotal IP reputation enrichment, security workflow automation, and real-time SOC dashboard monitoring.
 
 ---
 
